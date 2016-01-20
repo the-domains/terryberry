@@ -1,0 +1,28 @@
+name: Terryberry
+favicon: null
+layout_spectrum: 0.8715374942403287
+typography_spectrum: 0.8169682703446597
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.47206348669715226
+  lightness: 0.20131396315991879
+  saturation: 0.654713966883719
+  rhythmicContrast: 0.551171142142266
+purpose: []
